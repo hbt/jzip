@@ -1,0 +1,12 @@
+JZip 
+
+
+Java Zip Application (2004)
+
+
+- Zip/unzip files using zip or gzip
+- choose level of compression and method (Stored / Deflated)
+- easy folder manipulation 
+
+
+Screenshot https://github.com/hbt/jzip/blob/master/jzip.jpg
